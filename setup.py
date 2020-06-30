@@ -12,6 +12,7 @@ setup(
     version=version,
     description='A SkyWalking Agent/Middleware for Sanic Framework.',
     long_description=open('README.md').read(),
+    long_description_content_type="text/markdown",
     author='Lei Sun',
     author_email='leix.sun@qq.com',
     url=url,
