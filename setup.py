@@ -1,6 +1,6 @@
 from setuptools import setup
 
-version = '1.0.0'
+version = '1.0.1'
 url = 'https://github.com/sungitly/wsgi-skywalking-middleware'
 download_url = '{}/archive/v{}.tar.gz'.format(url, version)
 
