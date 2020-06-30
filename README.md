@@ -3,8 +3,10 @@
 This package help you integrate Skywalking APM in Sanic applications easily through Skywalking Python Agent. 
 
 If you'd like to explore more about Apache Skywalking and Python agent, you can visit 
-[Apache Skywalking Github]: https://github.com/apache/skywalking/
-[Apache Skywalking Python Agent]: https://github.com/apache/skywalking-python
+
+[Apache Skywalking Github](https://github.com/apache/skywalking/)
+
+[Apache Skywalking Python Agent](https://github.com/apache/skywalking-python)
 
 ## Installation
 
